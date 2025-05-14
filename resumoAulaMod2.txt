@@ -1,0 +1,21 @@
+Readme
+Título e descrição: Comece com um título claro e conciso que descreva o propósito do seu projeto.
+Instrução de instalação: Forneça instruções claras e detalhadas sobre como instalar seu projeto
+Exemplos de uso: Forneça exemplos práticos de como usar o seu projeto. Ela mencionou um vídeo.
+
+
+Mantendo o repositório
+1. Configuração do repositório
+2. Branches
+3. Issues
+4. Wikis
+5. Pull requests (PR)
+6. Proteção de Branches - sintaxe fnmatch (escopo da regra e prevalência
+
+Criar branchs
+$ git checkout branch
+$ git checkout -b branch
+
+Consultar branch
+$ git branch
+$ git branch -r
